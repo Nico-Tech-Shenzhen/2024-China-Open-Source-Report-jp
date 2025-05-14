@@ -9,17 +9,6 @@ URL：
 https://github.com/Nico-Tech-Shenzhen/2024-China-Open-Source-Report-jp
 <!-- （）GitHub Page: https://kaiyuanshe.github.io/2024-China-Open-Source-Report/ -->
 
-
-中国語版（オリジナル）：
-- GitHub Page: https://kaiyuanshe.github.io/2024-China-Open-Source-Report/
-- AtomGit Page: https://kaiyuanshe.atomgit.net/2024-China-Open-Source-Report/
-
-データ(オリジナル）：
-- GitHub: https://github.com/kaiyuanshe/2024-China-Open-Source-Report
-- AtomGit: https://atomgit.com/kaiyuanshe/2024-China-Open-Source-Report
-
-👏 如有问题，欢迎提 issue 或 PR。
-
 ## レポート目次
 
 - 日本語版
@@ -36,6 +25,17 @@ https://github.com/Nico-Tech-Shenzhen/2024-China-Open-Source-Report-jp
   - [OSS Commercialization](./en/commercialization.md)
   - [OSS Chronicle](./en/open-source-milestones.md) -->
 
-## 许可证
+
+中国語版（オリジナル）：
+- GitHub Page: https://kaiyuanshe.github.io/2024-China-Open-Source-Report/
+- AtomGit Page: https://kaiyuanshe.atomgit.net/2024-China-Open-Source-Report/
+
+データ(オリジナル）：
+- GitHub: https://github.com/kaiyuanshe/2024-China-Open-Source-Report
+- AtomGit: https://atomgit.com/kaiyuanshe/2024-China-Open-Source-Report
+
+👏 日本語版、中国語版ともにIssue,PRを歓迎します。
+
+## ライセンス
 
 Released under the CC BY-SA 4.0 License.
