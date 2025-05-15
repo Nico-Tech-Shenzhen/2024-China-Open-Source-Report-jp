@@ -2,14 +2,21 @@
 
 ## 概要
 
-**2024 中国オープンソース年度报告**は、包括的で詳細なデータ洞察を中核とし、9つの章で中国のオープンソースエコシステムの活況を全方位的に紹介しています。 
+** 2024 中国オープンソース年度报告**は、包括的で詳細なデータ洞察を中核とし、9つの章で中国のオープンソースエコシステムの活況を全方位的に紹介しています。 
 **第1部 マクロ洞察編**では、基礎的な出来事、アクティブなリポジトリ、アクティブなユーザー、プログラミング言語などの観点から、中国がグローバルなオープンソースエコシステムにおける独自の地位と影響力を明らかにします。
+
 **第2部 OpenRank ランキング編**では、グローバルと中国各分野のオープンソースプロジェクト、企業、財団、開発者、協業ロボットのランキングを通じて、業界に権威あるシステム的なOpenRank指標情報を提供し、オープンソース貢献を測る重要な基準となります。
+
 **第3部・第4部 企業洞察編と財団洞察編**では、動的変化図とトレンド分析を通じて、グローバルと中国の企業・財団がオープンソース分野における戦略的展開と進化の道を深く解析します。 
+
 **第5部 技術分野洞察編**では、各分野のトップ10ランキングとプロジェクトの変化に焦点を当て、最先端技術の発展方向とイノベーションのトレンドを正確に捉えます。
+
 **第6部 オープンソースプロジェクト洞察編**では、プロジェクトの種類、分野、テーマの多様性を深く探求し、オープンソースエコシステムの活力とイノベーションの可能性を明らかにします。 
+
 **第7部 開発者洞察編**では、開発者のタイプ、勤務時間分布、地域分布、およびロボットの利用状況の分析を通じて、開発者群の多様性と作業形態を描き出します。
+
 **第8部 商業オープンソース洞察編**では、中国と世界の商業オープンソース企業とプロジェクトの現状に焦点を当て、その成長経路と成功要因を分析します。 
+
 **第9部 大学オープンソース洞察編**では、オープンソース・サマー OSPP 活動と OpenRank コミュニティアルゴリズムを組み合わせ、大学学生のオープンソース活動への参加度と貢献度を明らかにし、オープンソース人材育成の新たなトレンドを提示します。全体として、データ編は豊富なデータ次元と深い分析視点を通じて、2024年中国オープンソースエコシステムの全体像を浮き彫りにし、業界に貴重な洞察と参考を提供します。
 
 
@@ -70,7 +77,7 @@ GitHubのイベント数はGiteeのイベント数よりもまだはるかに多
 
 ![GitHuB&Gitee_events_count](./public/image/data/chapter_1/GitHuB%26Gitee_events_count.png)
 
-<center>图 1.2 GitHub と Gitee の活動リポジトリイベント数 </center>
+<center>図 1.2 GitHub と Gitee の活動リポジトリイベント数 </center>
 <br>
 
 #### 1.1.3 セグメンテーション イベントタイプの分析
@@ -87,7 +94,7 @@ GitHubのイベント数はGiteeのイベント数よりもまだはるかに多
 
 ![Gitee_events_type_distribute](./public/image/data/chapter_1/GitHub_events_type_distribute.png)
 
-<center>图 1.4 Gitee イベント別分析 </center>
+<center>図 1.4 Gitee イベント別分析 </center>
 <br>
 
 ### 1.2 アクティブなリポジトリ
@@ -230,7 +237,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 统计数据显示，GitHub 活跃仓库中采用的开源许可证分布如下：
 
 ![license_distribute](./public/image/data/chapter_1/license_distribute.png)
-<center>图 1.12 使用开源许可证的仓库数量占比 </center>  
+<center>図 1.12 使用开源许可证的仓库数量占比 </center>  
 
 **主要观察：**
 - **MIT 许可证**占比最高，接近 43%，是最受欢迎的开源许可证。MIT 许可证以其简洁和灵活性著称，提供最小的法律限制，允许开发者自由使用和传播代码。这种特性使其成为全球开发者的首选。
@@ -242,10 +249,10 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 ---
 
 #### **1.4.2 开源许可证种类变化趋势**
-分析了开源许可证种类的增长趋势，结果如下图所示：
+分析了开源许可证种类的增长趋势，结果如下図所示：
 
 ![license_type_count_trend](./public/image/data/chapter_1/license_type_count_trend.png)
-<center>图 1.13 开源许可证种类数量变化趋势 </center>  
+<center>図 1.13 开源许可证种类数量变化趋势 </center>  
 
 **主要观察：**
 - 从 2017 年起，开源许可证的种类呈现持续增长态势。2017-2018 年间，**Eclipse 公共许可证 2.0** 和 **欧盟公共许可证 1.2** 等新许可证的推出推动了增长。
@@ -259,7 +266,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 
 **1. MIT 许可证数量变化趋势**  
 ![MIT_repo_count_trend](./public/image/data/chapter_1/MIT_repo_count_trend.png)
-<center>图 1.14 使用 MIT 许可证的仓库数量变化趋势 </center>  
+<center>図 1.14 使用 MIT 许可证的仓库数量变化趋势 </center>  
 
 **发现：**
 - 2023 年，MIT 许可证的活跃仓库数量为 **158 万**，2024 年则减少至不到 **100 万**，出现大幅下降。
@@ -268,7 +275,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 
 **2. 其他主要许可证数量变化趋势**  
 ![Var_license_repo_count_trend](./public/image/data/chapter_1/Var_license_repo_count_trend.png)
-<center>图 1.15 使用其他许可证的仓库数量变化趋势 </center>  
+<center>図 1.15 使用其他许可证的仓库数量变化趋势 </center>  
 
 **发现：**
 - 所有主要许可证（如 Apache、GNU、BSD）的使用数量在 2024 年均有所下降，但许可证头部仍以 MIT、Apache 和 GNU 为主。
@@ -280,7 +287,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 以下是对木兰系列许可证（包括“木兰宽松许可证”和“木兰公共许可证”）的使用趋势分析：
 
 ![Mulan_repo_count_trend](./public/image/data/chapter_1/Mulan_repo_count_trend.png)
-<center>图 1.16 使用木兰系列许可证的活跃仓库数量累加图 </center>  
+<center>図 1.16 使用木兰系列许可证的活跃仓库数量累加図 </center>  
 
 **主要观察：**
 - 木兰系列许可证由北京大学牵头，联合开源社、产学研团队及开源法务团队起草，是中国首个获得 OSI 认可的开源软件许可证。
@@ -456,7 +463,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 
 ### 2.8 世界の新勢力プロジェクトランキング
 ![全球新势力项目排行榜](./public/image/data/chapter_2/2_7.png)  
-<center>图 2.8 2024 年グローバル新势力プロジェクト OpenRank ランキング Top 10</center>  
+<center>図 2.8 2024 年グローバル新势力プロジェクト OpenRank ランキング Top 10</center>  
 
 **Global Ranking of New Power Projects*** 活発なコアプロジェクトと開発チームを反映し、将来の技術トレンドとイノベーションの方向性を示す。
 
@@ -542,7 +549,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 
 <!-- ### 3.5 2024年度全球企业的活跃度前10
 ![image](./public/image/data/chapter_3/rklKk5XIye.png)
-<center>图 3.5 2024年度全球企业的活跃度前10 </center>
+<center>図 3.5 2024年度全球企业的活跃度前10 </center>
 <br>
 
 微软 (Microsoft) 稳居第一，以绝对优势（活跃度 706,985.92）在各项指标上表现最为出色，证明其持续在开源生态中的领导地位。华为 (Huawei) 超越谷歌，上升两位至第二名，展现了其在开源社区中的强劲增长（活跃度增长 147,619.52）。谷歌 (Google) 下滑一位至第三名，活跃度仍维持在较高水平（290,417.81）。亚马逊 (Amazon) 和 Red Hat 分列第四和第五，前者活跃度略有下降。Mozilla 上升一位至第六名，表明其在开源领域的贡献有提升。
@@ -558,7 +565,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 
 ### 3.6 2024年度全球企业的OpenRank前10
 ![image](./public/image/data/chapter_3/S1pc7aQLkx.png)
-<center>图 3.6 2024年度全球企业的OpenRank前10 </center>
+<center>図 3.6 2024年度全球企业的OpenRank前10 </center>
 <br>
 
 * 北美企业的强势地位：前十中，北美企业占据七席，微软、谷歌和亚马逊继续主导开源生态。这些企业在基础设施、AI、云计算等领域贡献巨大，是全球开源的核心推动力。
@@ -572,7 +579,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 ### 3.7 2024年度中国企业的活跃度前10
 
 ![image](./public/image/data/chapter_3/rkA0CtQU1g.png)
-<center>图 3.7 2024年度中国企业的活跃度前10 </center>
+<center>図 3.7 2024年度中国企业的活跃度前10 </center>
 <br>
 
 * 华为 (Huawei) 稳居第一，其活跃度（422,865.51）远高于其他企业，展示了在开源领域的绝对领先地位。
@@ -592,7 +599,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 
 ### 3.8 2024年度中国企业的OpenRank前10
 ![image](./public/image/data/chapter_3/BkFQG6XI1l.png)
-<center>图 3.8 2024年度中国企业的OpenRank前10 </center>
+<center>図 3.8 2024年度中国企业的OpenRank前10 </center>
 <br>
 
 * 华为凭借高额得分和显著增长继续稳居榜首。
@@ -613,7 +620,7 @@ DaoCloudの成功は、中国のテクノロジー企業がオープンソース
 #### 3.5.1 DaoCloud エンタープライズインサイトビッグスクリーン
 
 <img width="1159" alt="image" src="./public/image/data/chapter_3/25d53bf8-31ed-4c9d-9b1b-993d5f9a872d.png" />
-<center>图 3.9 DaoCloudエンタープライズインサイトビッグスクリーン </center>
+<center>図 3.9 DaoCloudエンタープライズインサイトビッグスクリーン </center>
 <br>
 
 このチャートは、DaoCloudの全体的な貢献、アクティブなプロジェクトのランキング、コントリビューターの分布、およびいくつかの主要なオープンソースの活動指標（Issues、Commits、PRの傾向など）の包括的なビューを提供する**DaoCloud Insights Big Screen**を示しています。 これらのデータは、コミュニティのダイナミクスと発展を分析するための重要な基礎となります。
@@ -627,7 +634,7 @@ PRとIssuesの効率的な処理によってコミュニティの緊密な連携
 #### 3.5.2 DaoCloud コアプロジェクトの生態系コラボレーションネットワーク DaoCloud-docs
 
 ![image](./public/image/data/chapter_3/BkK8p678yx.png)
-<center>图 3.10 DaoCloud-docs生態系コラボレーションネットワーク </center>
+<center>図 3.10 DaoCloud-docs生態系コラボレーションネットワーク </center>
 <br>
 
 この図は、DaoCloudコミュニティにおけるDaoCloud-docsプロジェクトの生態系ネットワークを示しており、プロジェクトと他のプロジェクトや組織との相互関係、開発活動やパートナーシップを示すことを目的としています。
@@ -639,7 +646,7 @@ PRとIssuesの効率的な処理によってコミュニティの緊密な連携
 
 #### 3.5.3 DaoCloud の中核プロジェクトである DaoCloud-docs のコミュニティ・コラボレーション・ネットワーク
 ![image](./public/image/data/chapter_3/rJtT2i7Iyx.png)
-<center>图 3.9 DaoCloud-docsコミュニティ・コラボレーション・ネットワーク </center>
+<center>図 3.9 DaoCloud-docsコミュニティ・コラボレーション・ネットワーク </center>
 <br>
 
 この図は、DaoCloud-docsのプロジェクトコミュニティネットワークを示し、開発活動や組織の関連を通して、プロジェクトコミュニティの分布と構成を分析しています。
@@ -721,260 +728,259 @@ DaoCloud プロジェクトのコミュニティは、中国の開発者と組�
 #### Linux財団の中国プロジェクトであるOpenRankのトレンド分析。
 
 ![image](./public/image/data/chapter_4/4_4.png)
-<center>图4.4 Linux 基金会（包含子基金会）旗下中国项目 OpenRank 趋势</center>
+<center>図 4.4 中国における Linux Foundation（サブFoundationを含む） OpenRank 趋势</center>
 
-Linux 基金会作为全球开源社区的重要组织，中国项目的参与和发展可以反映中国在全球开源生态中的影响力。
+Linux Foundation はグローバルなオープンソース社において重要な組織であり、中国のプロジェクトの参加と発展は、グローバルなオープンソースエコシステムにおける中国の影響力を反映することができる。
 
-* milvus-io/milvus 的项目的OpenRank 快速增长。Milvus 是由 Zilliz 公司发起并贡献给 Linux 基金会 AI & 数据子基金会（LF AI & Data Foundation） 的开源向量数据库项目，专注于处理非结构化数据（如图像、视频、音频和文本）的高效存储与检索，尤其适用于机器学习和人工智能相关场景。 milvus-io/milvus 2024 年在 Linux 基金会 OpenRank 排名中位列第六，展现了中国在大数据和人工智能领域的强劲影响力。
-* 总体来看，大多数项目的 OpenRank 较低且变化不大，这种差异也为其他中国项目提供了启示：通过技术创新、市场适配和社区运营，增强项目的竞争力和生命力，才能在开源生态中保持长久的影响力。
+* プロジェクトのOpenRank * milvus-io/milvusは急速に成長している。 milvusは、Zillizによって開始され、Linux Foundation AI & Data Foundation（LF AI & Data Foundation）に貢献したオープンソースのベクトルデータベースプロジェクトであり、特に機械学習やAI関連のシナリオのために、非構造化データ（画像、動画、音声、テキストなど）の効率的な保存と検索に焦点を当てている。 非構造化データ（画像、動画、音声、テキストなど）の効率的な保存と検索に重点を置いており、特に機械学習やAI関連のシナリオに適している。milvus-io/milvus 2024 は、Linux Foundation の OpenRank ランキングで 6 位にランクインしており、ビッグデータと人工知能の分野における中国の強い影響力を示しています。
+* 全体的に、ほとんどのプロジェクトの OpenRank は低く、あまり変化していません。この違いは、他の中国プロジェクトに教訓を与えています。オープンソースエコシステムで長期的な影響力を維持するためには、技術革新、市場への適応、コミュニティの運営を通じて、プロジェクトの競争力と活力を高める必要があります。
 
-### 4.4 开放原子基金会旗下项目 OpenRank 趋势分析
+### 4.4 OpenAtom Foundationプロジェクトの OpenRank トレンド分析
 ![image](./public/image/data/chapter_4/4_5.png)
 
-<center>图4.5 开放原子基金会旗下项目 OpenRank 趋势
-</center>
+<center>図4.5 OpenAtom Foundation 旗下のプロジェクト OpenRank トレンド　</center>
 <br>
 
-* OpenHarmony 继续稳居首位，其OpenRank指标较2023年增长显著，增幅接近70%，显示出其作为核心项目的强大吸引力。这种增长可能得益于其在智能设备和操作系统领域的广泛应用，以及社区对其的持续投入和支持。
-* openEuler 紧随其后，2024年继续保持增长势头，OpenRank稳定增长。这表明其在开源操作系统领域的影响力持续扩大，并在云计算和企业应用中得到了进一步推广。
-* Anolis OS 和 openKylin 在2024年的表现则相对平稳。尽管增长幅度不如前两者显著，但它们在特定领域仍具有竞争力。Anolis OS 主攻企业级Linux市场，而openKylin聚焦国产操作系统，均在其目标用户群中保持了一定的认可度。
-* 其他项目如 Taro、UBML 和 PikwiDB 的openrank值较低，反映了这些项目的生态规模有限，或应用场景尚未广泛推广。
+* OpenHarmony は、OpenRank の指標において、2023 年比で約 70 パーセントの大幅な伸びを示し、中核プロジェクトとしての強力な魅力を実証し、トップの座を維持し続けています。 この成長は、スマートデバイスとオペレーティングシステムの分野で広く採用されていることと、コミュニティからの継続的なインプットとサポートによるものです。
+* OpenRank は着実に成長している。 これは、オープンソース・オペレーティング・システム分野での影響力の継続的な拡大と、クラウド・コンピューティングとエンタープライズ・アプリケーションでのさらなる推進を示している。
+* Anolis OSとopenKylinの2024年の業績は比較的横ばいである。 anolis OSはエンタープライズLinux市場にフォーカスし、openKylinは国産OSにフォーカスしており、両者ともターゲットとするユーザーグループから一定の支持を得ている。
+* Taro、UBML、PikwiDBなどの他のプロジェクトは、openrankの値が低いが、これはこれらのプロジェクトの生態学的規模が限定的であること、あるいはアプリケーション・シナリオがまだ広く普及していないことを反映している。
 
 
 
-## 五. 技术领域洞察
+## V. 技術領域の洞察
 
-技术领域的发展在开源技术中起着风向标的作用，众多技术子领域展现出快速的进步和变革：操作系统领域不断适配新架构，在开源社区中持续演化；云原生技术推动企业实现数字化转型，其开源项目生态活跃且增长迅速；数据库作为数据创新的核心基础设施，开源技术的广泛应用促进了多样化场景的突破；大数据领域依托开源工具，正为智能决策提供强大支撑；人工智能借助开源框架加速各行业的自动化进程；前端技术则通过开源项目推动交互体验与视觉设计的不断提升。这些领域以其开放性和创新性吸引了众多开发者与投资者的关注，本节将基于影响力和活跃度两大指标对其进行数据洞察分析。
+オペレーティングシステムは、常に新しいアーキテクチャに適応し、オープンソース社で進化しています。クラウドネイティブ技術は、企業がデジタルトランスフォーメーションを達成する原動力となり、そのオープンソースプロジェクトエコシステムは活発で急速に成長しています。 データ革新の中核インフラとして、オープンソース技術の幅広い応用が多様なシナリオのブレークスルーを促進し、ビッグデータはオープンソースツールに依存し、インテリジェントな意思決定を強力にサポートし、人工知能はオープンソースフレームワークの助けを借りて、様々な産業における自動化プロセスを加速し、フロントエンド技術はオープンソースプロジェクトを通じてインタラクティブな体験とビジュアルデザインの継続的な強化を促進する。 このセクションでは、影響力と活動の 2 つの指標に基づき、これらのデータインサイトを分析する。
 
-### 5.1 各子领域近5年变化趋势
+### 5.1 過去5年間の各サブフィールドの動向
 ![image](./public/image/data/chapter_5/5-1.png)
-<center>图5.1 OpenRank of Technology Category 2020-2024 </center>
+<center>図5.1 OpenRank of Technology Category 2020-2024 </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-2.png)
-<center>图5.2 Activity of Technology Category 2020-2024 </center>
+<center>図5.2 Activity of Technology Category 2020-2024 </center>
 <br>
 
-从各子领域近 5 年的变化趋势来看，云原生优势明显，该领域下仓库数量相对其他领域较多；AI 在近几年的快速发展中增速显著；数据库作为关键的基础软件，以其活跃性稳居前列；大数据热度在 2024 年略有下降；操作系统领域虽仓库数量较少，但其影响力逐年上升，展现出基础软件高价值的特性；前端领域的影响力则呈现逐年降低的趋势。
+過去5年間の各分野の変化傾向から見ると、クラウドネイティブの優位性は明らかであり、同分野の倉庫数は他分野と比較して相対的に多い、AIは近年の急速な発展で成長率が大きい、データベースは重要な基本ソフトとして着実に第一線で活躍している、ビッグデータの熱量は2024年にはやや低下している、OS分野の倉庫数は相対的に少ないが、その影響力は年々増加しており、基本ソフトの価値が高いという特徴を示している、フロントエンド分野の影響力は年々低下する傾向を示している。 フロントエンド分野の影響力は年々減少傾向にある。
 
-### 5.2 各领域 OpenRank Top 10项目近五年变化趋势
-#### 大数据
+### 5.2過去5年間のOpenRankトップ10プロジェクトのドメイン別傾向
+#### ビッグデータ
 
 ![image](./public/image/data/chapter_5/5-3.png)
-<center>图5.3 OpenRank of Big data 2020-2024 </center>
+<center>図5.3 OpenRank of Big data 2020-2024 </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-4.png)
-<center>图5.4 Activity of Big data 2020-2024 </center>
+<center>図5.4 Activity of Big data 2020-2024 </center>
 <br>
 
-大数据领域的双指标整体呈现上升趋势，其中 Kibana 和 Grafana 在影响力和活跃度上始终位居前二。值得注意的是，2023 年两者之间的差距逐渐缩小，而到了 2024 年，这一差距又开始扩大。此外，Clickhouse 和 Doris 在大数据领域的竞争也日益激烈。
+ビッグデータのデュアルメトリクスは全体的に上昇傾向にあり、KibanaとGrafanaは影響力とアクティビティにおいて常にトップ2にランクインしている。 注目すべきは、両者の差が2023年に縮まり、2024年に再び広がり始めることだ。 さらに、クリックハウスとドリスはビッグデータ分野で競合を強めている。
 
-Kibana 是一款开源的数据可视化与探索工具，与 ElasticSearch 无缝集成，支持对 ElasticSearch 数据的查询、分析和可视化。
-Grafana 则是一款功能强大的开源数据可视化工具，广泛应用于监控与报告场景。它支持多种数据源，包括 Prometheus、InfluxDB 和 Graphite 等，能够生成多种类型的图表和仪表板，为用户提供灵活的数据展示与分析能力。
+Kibanaはオープンソースのデータ可視化・探索ツールで、ElasticSearchとシームレスに統合し、ElasticSearchデータのクエリ、分析、可視化をサポートする。
+Grafanaは強力なオープンソースのデータ可視化ツールで、モニタリングやレポーティングの幅広いシナリオで使用されています。 Prometheus、InfluxDB、Graphiteなど、さまざまなデータソースをサポートしています。さまざまな種類のチャートやダッシュボードを生成でき、ユーザーに柔軟なデータ表示と分析機能を提供します。
 
-#### 数据库
+#### データベース
 
 ![image](./public/image/data/chapter_5/5-5.png)
-<center>图5.5 OpenRank of Database 2020-2024 </center>
+<center>図5.5 OpenRank of Database 2020-2024 </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-6.png)
-<center>图5.6 Activity of Database 2020-2024 </center>
+<center>図5.6 Activity of Database 2020-2024 </center>
 <br>
 
-ClickHouse 数据库双指标持续稳定增长，ElasticSearch 重回榜单前三，Doris 的增速虽有所放缓，但活跃度指标已接近第一，预计其双指标未来有望超越 ClickHouse。此外，YDB 增速显著，在 2024 年成功进入榜单前十。
+ClickHouseデータベースは両指標で安定した成長を続けており、ElasticSearchはトップ3に返り咲き、Dorisは成長の鈍化にもかかわらずアクティビティで1位に近づいており、将来的には両指標でClickHouseを追い抜くと予想されている。さらに、YDBはかなりのペースで成長しており、2024年にはトップ10に入るだろう。
 
-ClickHouse 是由俄罗斯 Yandex 公司开源的一款基于 MPP 架构的高性能分析引擎，其向量化执行引擎使其号称比传统事务型数据库快 100-1000 倍，同时具备丰富的功能和极高的可靠性。
-Apache Doris 是百度贡献的开源 MPP 分析型数据库产品，具有简洁的分布式架构，便于运维，广泛应用于高效的实时分析场景。
+ClickHouseは、ロシアのYandexがオープンソース化したMPPアーキテクチャに基づく高性能分析エンジンで、そのベクトル化された実行エンジンにより、豊富な機能と高い信頼性を提供しながら、従来のトランザクション・データベースの100～1000倍の速度を実現している。
+Apache Dorisは、オープンソースのMPP分析データベース製品へのバイドゥの貢献であり、シンプルな分散アーキテクチャを持ち、運用と保守が容易で、効率的なリアルタイム分析シナリオで広く使用されています。
 
-YDB 作为开源项目于 2020 年发布，旨在提供支持 ACID 事务的高效分布式数据库解决方案，尤其适合高并发和分布式应用场景。YDB 的设计和开发旨在解决 Yandex 自身的技术挑战，随着开源后，它吸引了越来越多的开发者和企业的关注，并成为了现代分布式数据库领域的一部分。
+YDBは2020年にオープンソースプロジェクトとしてリリースされ、ACIDトランザクションをサポートする効率的な分散データベースソリューションを提供することを目的としており、特に高同時性と分散アプリケーションシナリオに適しています。YDBはヤンデックス独自の技術的課題を解決するために設計・開発され、オープンソース化されたことで、開発者や企業からますます多くの注目を集め、最新の分散データベース分野の一部となりました。 YDBは、最新の分散データベースの世界では初めてのものです。
 
-#### 操作系统
+#### オペレーティングシステム
 
 ![image](./public/image/data/chapter_5/5-7.png)
-<center>图5.7 OpenRank Operating System 2020-2024 </center>
+<center>図5.7 OpenRank Operating System 2020-2024 </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-8.png)
-<center>图5.8 Activity of Operating System 2020-2024 </center>
+<center>図5.8 Activity of Operating System 2020-2024 </center>
 <br>
 
-可以看到，OpenHarmony 项目下的多个仓库位居榜单前十。本次洞察结合了 Gitee 平台的数据，更直观地展现了国产操作系统的多方面优势。此外，OpenEuler Kernel 项目也表现不俗。
+ご覧のように、OpenHarmonyプロジェクトのもと、いくつかのリポジトリがリストのトップ10に入っています。 この洞察は、Giteeプラットフォームからのデータを組み合わせたもので、多くの側面で国産OSの優位性をより直感的に示している。 さらに、OpenEuler Kernelプロジェクトも好成績を収めた。
 
-#### 云原生
+#### クラウドネイティブ
 
 ![image](./public/image/data/chapter_5/5-9.png)
-<center>图5.9 OpenRank of Cloud Native 2020-2024 </center>
+<center>図5.9 OpenRank of Cloud Native 2020-2024 </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-10.png)
-<center>图5.10 Activity of Cloud Native 2020-2024 </center>
+<center>図5.10 Activity of Cloud Native 2020-2024 </center>
 <br>
 
-LLVM-Project 增速显著，双指标位居第一；Grafana 增速放缓，排名第二；Kubernetes 双指标下降明显，其余项目竞争激烈。
-LLVM 是一个模块化、可重用的编译器框架和工具链技术的集合，近 3 年来活跃度增长迅速，深受广大开发者喜爱。
+LLVM-Projectは大きく成長し、両指標で1位、Grafanaは減速し2位、Kubernetesは両指標で大きく減少し、その他のプロジェクトは激しい競争を繰り広げている。
+LLVMは、モジュール化された再利用可能なコンパイラ・フレームワークとツールチェーン技術の集合体であり、過去3年間で活動が急成長し、開発者に人気がある。
 
-#### 前端
+#### フロントエンド
 
 ![image](./public/image/data/chapter_5/5-11.png)
-<center>图5.11 OpenRank of Frontend 2020-2024 </center>
+<center>図5.11 OpenRank of Frontend 2020-2024 </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-12.png)
-<center>图5.12 Activity of Frontend 2020-2024 </center>
+<center>図5.12 Activity of Frontend 2020-2024 </center>
 <br>
 
-Flutter 虽然双指标逐年下降，但相较于 Next.js 仍具明显优势。Next.js 自 2023 年起表现亮眼，增速显著，但在 2024 年有所回落；排名 3-10 的项目竞争激烈，差距较小。
+Flutterは、両指標とも前年比では減少しているものの、2023年以降好調なNext.jsを大きく引き離している。Next.jsは、かなりの割合で成長しているものの、2024年には減少している。3位から10位までのプロジェクト間の競争は激しく、上位10プロジェクト間の差は比較的小さい。
 
-Flutter 是由 Google 开发的框架，前端和全栈开发人员可使用它通过单一代码库为多个平台构建用户界面。
-Next.js 是由 Vercel 创建的开源框架，基于 Node.js 和 Babel 构建，设计与 React 单页应用框架配合使用，同时提供预览模式、快速开发编译和静态导出等实用功能。
+FlutterはGoogleが開発したフレームワークで、フロントエンドやフルスタックの開発者が単一のコードベースから複数のプラットフォーム向けのユーザーインターフェイスを構築するために使用できる。
+Next.jsは、Vercelによって作成されたオープンソースのフレームワークで、Node.jsとBabelをベースに構築され、Reactシングルページアプリケーションフレームワークと連携するように設計されており、プレビューモード、迅速な開発コンパイル、静的エクスポートなどの便利な機能を提供している。
 
-#### 人工智能
+#### 人工知能
 
 ![image](./public/image/data/chapter_5/5-13.png)
-<center>图5.13 OpenRank of AI 2020-2024 </center>
+<center>図5.13 OpenRank of AI 2020-2024 </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-14.png)
-<center>图5.14 Activity of AI 2020-2024 </center>
+<center>図5.14 Activity of AI 2020-2024 </center>
 <br>
 
-自 2020 年起，TensorFlow 的双指标持续下滑，至 2024 年已跌出 OpenRank 榜单前十。相比之下，PyTorch 稳步增长，与其他项目的差距逐步拉大。值得一提的是，LangChain 自 2022 年开源后双指标一直稳居前三，尽管 2024 年热度略有回落，但其影响力依然显著。同时，vllm 增速显著，超越 LangChain 位居第二，而 Huggingface/Transformers 项目则保持双指标的稳定增长。
+2020年以降、TensorFlowのデュアル・メトリクスは低下し続け、2024年にはOpenRankリストのトップ10から外れている。 対照的に、PyTorchは着実に成長し、他のプロジェクトとの差を広げている。 LangChainは2022年にオープンソース化されて以来、両指標でトップ3に入っており、2024年には若干人気が落ちたものの、その影響力は依然として大きいことは特筆に値する。 一方、vllmはかなりの勢いで成長しており、LangChainを抜いて2位、Huggingface/Transformersプロジェクトは両指標で安定した成長を維持している。
 
-LangChain 是 Harrison Chase 于 2022 年 10 月推出的开源项目，已成为 LLM 开发中备受欢迎的框架之一。
-vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为大规模语言模型（LLM）的高效推理优化而设计。近 3 年活跃度显著增长，深受开发者喜爱。
+LangChainは、ハリソン・チェイスが2022年10月に立ち上げたオープンソースプロジェクトで、LLM開発のための最も人気のあるフレームワークの1つとなっている。
+vllm-project/vllmは、大規模言語モデル（LLM）のための効率的な推論最適化のために設計された、効率的でスケーラブルな分散推論フレームワークです。 vllm-project/vllmは、過去3年間で著しく活動を拡大し、開発者に人気があります。
 
-### 5.3 各领域OpenRank Top 10 榜单
+### 5.3 OpenRankのドメイン別トップ10リスト
 
-下面再给出 2024 年各领域的项目 OpenRank 排行榜。
+2024年の分野別OpenRankランキングは以下の通り。
 ![image](./public/image/data/chapter_5/5-15.png)
-<center>图5.15 大数据领域OpenRank TOP 10 榜单 </center>
+<center>図5.15　ビッグデータのOpenRankトップ10リスト </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-16.png)
-<center>图5.16 数据库领域OpenRank TOP 10 榜单 </center>
+<center>図5.16 データベース領域におけるOpenRankトップ10リスト </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-17.png)
-<center>图5.17 操作系统领域OpenRank TOP 10 榜单 </center>
+<center>図5.17 OpenRankオペレーティング・システム・トップ10リスト </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-18.png)
-<center>图5.18 云原生领域OpenRank TOP 10 榜单 </center>
+<center>図5.18 クラウドネイティブのためのOpenRankトップ10リスト</center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-19.png)
-<center>图5.19 前端领域OpenRank TOP 10 榜单 </center>
+<center>図5.19 最先端分野OpenRank TOP 10 ランキング </center>
 <br>
 
 ![image](./public/image/data/chapter_5/5-20.png)
-<center>图5.20 人工智能领域OpenRank TOP 10 榜单 </center>
+<center>図5.20 人工知能分野のOpenRank TOP 10 ランキング </center>
 <br>
     
-## 六. 开源项目洞察
-2024 年，开源项目在经历了 AI 大模型、生成式AI的快速发展后逐渐呈现平稳演进的态势，以及在数据库领域的稳步发展后，呈现出新的活力。本章节从开源项目的视角出发，深入分析了项目的多维度数据，以获得更全面的洞察。通过对开源项目的 Topic 进行统计分析，揭示了全球开源社区在 2024 年的共同兴趣点。
+## 6. オープンソースプロジェクトの動向
+2024年、オープンソースプロジェクトはAIの大規模モデルや生成AIの急速な発展を経て、徐々に安定した進化の傾向を示し、データベース分野での着実な発展を経て、新たな活力を示しています。本章では、オープンソースプロジェクトの視点から、プロジェクトの多角的なデータを深く分析し、より包括的な洞察を得ます。 オープンソースプロジェクトのトピックを統計的に分析し、2024 年のグローバルなオープンソースコミュニティの共通の関心事を明らかにします。
 
-### 6.1 项目类型
+### 6.1 プロジェクトの種類
 
-本小节选取了 GitHub 活跃度排名前 10,000 的仓库数据进行统计分析。
+このサブセクションでは、GitHub のアクティブ度ランキング上位 10,000 のリポジトリのデータを統計的に分析しています。
 
-#### 6.1.1 不同项目类型数量比例
+#### 6.1.1 プロジェクトの種類別の割合
 
 ![6-1](./public/image/data/chapter_6/6-1.png)
 <center>
-图 6.1 不同项目类型数量比例
+図 6.1 異なるプロジェクトタイプの数量比率
 </center>
 <br>
 
-- **Application Software**（**应用软件**）：用蓝色表示，占据了饼图的 24.3%，这表明应用软件在所分析的数据集中占有相当的比例，反映出应用软件在软件生态中的重要性。
-- **Libraries and Frameworks**（**库和框架**）：用橙色表示，占比最大，达到 31.4%。这显示了库和框架在软件开发中的广泛应用，它们为开发者提供了构建应用的基础设施和工具。
-- **Non Software**（**非软件**）：绿色部分，占 23.2%。这一类别可能包括与软件直接开发不相关的项目，如文档、设计资源或其他非代码资产。
-- **Software Tools**（**软件工具**）：红色部分，占 18.9%。这类工具可能包括编译器、调试器、版本控制系统等，它们是软件开发过程中不可或缺的辅助工具。
-- **System Software**（**系统软件**）：紫色部分，占比最小，仅为 2.3%。这可能包括操作系统、驱动程序等，它们是计算机系统运行的基础，但在这个数据集中所占比例较小。
+- **アプリケーションソフトウェア**　：青色で表示され、パイチャートの24.3%を占めています。これは、分析対象のデータセットにおいてアプリケーションソフトウェアが相当な割合を占めていることを示し、ソフトウェアエコシステムにおけるその重要性を反映しています。
+- **ライブラリとフレームワーク**　：オレンジ色で表示され、最も大きな割合を占め、31.4%に達しています。これは、ライブラリとフレームワークがソフトウェア開発において広く活用されていることを示しており、開発者にアプリケーションを構築するための基盤インフラストラクチャとツールを提供しています。
+- **非ソフトウェア**　：緑色で表示され、23.2%を占めています。このカテゴリーには、ソフトウェアの直接的な開発と関連しないプロジェクトが含まれる可能性があります。例えば、ドキュメント、デザインリソース、またはその他の非コード資産などが該当します。
+- **ソフトウェアツール**　：赤色で表示され、18.9%を占めます。このツールにはコンパイラ、デバッガー、バージョン管理システムなどが含まれ、ソフトウェア開発プロセスにおいて不可欠な補助ツールです。
+- **システムソフトウェア** ：紫色部分、最も小さな割合で2.3%。これにはオペレーティングシステム、ドライバーなどが含まれ、コンピュータシステムの基盤を構成しますが、このデータセットでは割合が小さいです。
 
-#### 6.1.2 不同项目类型 OpenRank 加总比例
+#### 6.1.2 異なるプロジェクトタイプのOpenRank合計割合
 
 ![6-2](./public/image/data/chapter_6/6-2.png)
 <center>
-图 6.2 不同项目类型2024年 OpenRank 加总比例
+図 6.2 2024年 OpenRank における異なるプロジェクトタイプの合計割合
 </center>
 <br>
 
-结合 2024 年的 OpenRank 影响力视角再看这几个类别：
-- 最大的变化，就是内容资源类型（Non Software）项目虽然在活跃项目的数量上占比较多，但其2024年的影响力相对较低；
-- 而系统软件类型（System Software）虽然活跃项目数量上占比很少，但其2024年的影响力占比相对更多；软件工具类型（Software Tools）项目也有类似的现象；
-- 组件框架类型和应用软件类型则没有太多变化，都是属于占比较多的类型。
+2024年のOpenRank影響力分析の視点から、これらのカテゴリを再考します：
+- 最も大きな変化は、コンテンツリソースタイプ（Non Software）のプロジェクトがアクティブプロジェクトの数では割合が高いものの、2024年の影響力は相対的に低い点です；
+- 一方、システムソフトウェアタイプ（System Software）はアクティブプロジェクトの数では割合が非常に低いものの、2024年の影響力割合は相対的に高いです；ソフトウェアツールタイプ（Software Tools）のプロジェクトにも同様の傾向が見られます；
+- コンポーネントフレームワークタイプとアプリケーションソフトウェアタイプは大きな変化がなく、いずれも割合の高いカテゴリーに属しています。
 
-#### 6.1.3 不同项目类型近 5 年 OpenRank 变化趋势
+#### 6.1.3 異なるプロジェクトタイプにおける過去5年間のOpenRank変化傾向
 
 ![6-3 App-Openrank](./public/image/data/chapter_6/6-3.png)
 
 <center>
-图 6.3 不同项目类型近 5 年 OpenRank 变化趋势
+図 6.3 異なるプロジェクトタイプの過去5年間のOpenRankの変動傾向
 </center>
 <br>
 
-从上面的五年 OpenRank 演化图上可以看得出来，系统软件类型（System Software）的影响力逐年升高，软件工具（Software Tools）影响力在今年略有下降，库和框架（Libraries and Frameworks）、应用软件（Application Software）整体呈下降趋势，而内容资源类型（Non Software）项目的影响力比例是在逐年下降。
+上記の5年間のOpenRank進化図から、システムソフトウェアの影響力が年々上昇していることがわかります。ソフトウェアツールの影響力は今年やや低下しており、ライブラリとフレームワークおよびアプリケーションソフトウェアは全体的に下降傾向にあります。一方、コンテンツリソースタイプ（Non Software）のプロジェクトの影響力比率は年々低下しています。
 
-### 6.2 项目 Topic 分析
+### 6.2 プロジェクト トピック分析
 
-本节同样选取 GitHub OpenRank 排名前 10,000 的仓库数据进行分析，并获取仓库下的 Topic 标签进行深入洞察。
+本節では、GitHub OpenRank ランキング上位 10,000 のリポジトリデータを選択し、分析を実施。リポジトリ内のトピックタグを取得し、詳細な洞察を行います。
 
-#### 6.2.1 热门 topic
+#### 6.2.1 人気のトピック
 
 ![6-4](./public/image/data/chapter_6/6-4.png)
 <center>
-图 6.4 出现次数前十的 Topic
+図 6.4 出現回数上位10位のトピック
 </center>
 <br>
 
-前十的主题涵盖了多个领域，反映了开源社区的广泛兴趣。其中，hacktoberfest 是 GitHub 上的一个开源活动，鼓励开发者贡献代码,以 1132 次的出现次数遥遥领先，显示诸多项目对开发者的欢迎。Python、JavaScript、TypeScript、Java 和 Rust 等 Topic 数量表现了这些语言受到了开源软件开发的青睐。此外，kubernets 和 machine-learning 等是在开源中具有较高关注度的 Topic。
+トップ 10 のトピックは、さまざまな分野を網羅しており、オープンソースコミュニティの幅広い関心を反映しています。そのうち、hacktoberfest は GitHub でのオープンソース活動で、開発者にコードの貢献を奨励するもので、1132 件の出現回数でトップを独走しており、多くのプロジェクトが開発者を歓迎していることを示しています。Python、JavaScript、TypeScript、Java、Rust などのトピックの出現数は、これらの言語がオープンソースソフトウェアの開発で人気があることを示しています。 さらに、kubernetes や machine-learning などは、オープンソースにおいて高い注目度を誇るトピックです。
 
-#### 6.2.2 热门 Topic 的仓库总 OpenRank 趋势
+#### 6.2.2 人気のトピックのレポジトリ総 OpenRank トレンド
 
 
 ![6-5](./public/image/data/chapter_6/6-5.png)
 <center>
-图 6.5 出现次数前十的 Topic 下仓库的 OpenRank 变化 (2019 - 2023)
+図 6.5 出現回数上位10位のトピックのサブディレクトリのOpenRankの変化（2019年~2023年）
 </center>
 <br>
 
-- 从 2020 至 2024 年，Hacktoberfest 的 OpenRank 显著增长，表现突出。Hacktoberfest 的目标是鼓励更多人参与开源项目，它反映了人们对于开源项目、社区参与和贡献的热情。
-- Python 和 React 稳步上升，反映其流行度。JavaScript 和 TypeScript 增长稳定，显示前端以及应用开发的持续需求。
-- Kubernetes 和 Machine Learning 增长，体现云和 AI 领域的发展。
-- 其他如 Java、Rust、Android 增长平缓，显示成熟技术市场的稳定。
+- 2020年から2024年にかけて、HacktoberfestにおけるOpenRankは著しい成長を遂げ、優れた成果を挙げました。Hacktoberfestの目的は、より多くの人々がオープンソースプロジェクトに参加することを奨励することであり、これは人々におけるオープンソースプロジェクト、コミュニティ参加、および貢献への情熱を反映しています。
+- Python と React は着実に上昇しており、その人気を反映しています。JavaScript と TypeScript は安定した成長を示しており、フロントエンドおよびアプリケーション開発の継続的な需要を反映しています。
+- Kubernetes と Machine Learning は成長を遂げており、クラウドとAI分野の発展を反映しています。
+- Java、Rust、Android などは緩やかな成長を示しており、成熟した技術市場の安定性を示しています。
 
-### 6.3 数据库领域项目分析
-本小节分析了数据库领域在 OpenRank、 Activity 等指标方面近五年的增长趋势及 Top 10 头部项目的集中度变化趋势，并依据 [Database of Databases](https://dbdb.io/) 及 [DB-Engines Ranking](https://db-engines.com/en/ranking) 中公开的开源数据库信息，将该领域按数据库的存储结构及用途划分为 Relational、Key-value、Document、Wide Column、Search Engine、Time Series、Vector、Graph、Object Oriented、Hierarchical、RDF、Array、Event、Spatial、Columnar、 Native XML、Content 18 个子类，收集并分析其在 GitHub 上的相应数据库开源项目的协作日志数据。
+### 6.3 データベース分野のプロジェクト分析
+本節では、データベース分野におけるOpenRank、Activityなどの指標における過去5年間の成長傾向およびトップ10プロジェクトの集中度変化傾向を分析し、［Database of Databases］（https://dbdb.io/）および［DB-Engines Ranking］（https://db-engines.com/en/ranking）で公開されているオープンソースデータベース情報を基に、当該分野をデータベースのストレージ構造と用途に応じてRelational、 キーバリュー、ドキュメント、ワイドカラム、検索エンジン、タイムシリーズ、ベクター、グラフ、オブジェクト指向、階層型、RDF、配列、イベント、空間、カラム型、ネイティブXML、コンテンツの18つのサブカテゴリに分類し、GitHub上の対応するデータベースオープンソースプロジェクトのコラボレーションログデータを収集・分析しました。
 
-#### 6.3.1 数据库领域近五年增长趋势及Top 10 头部项目的集中度变化趋势
+#### 6.3.1 データベース分野の過去5年間の成長傾向およびトップ10プロジェクトの集中度変化傾向
 
 ![image](./public/image/data/chapter_6/6-6%20OpenRank_of_Database_2020-2024.png)
 
 <center>
-    图 6.6 数据库领域 2020 - 2024 年 领域的OpenRank变化趋势
+    図 6.6 データベース分野 2020 - 2024 年の分野におけるOpenRankの変動傾向
 </center>
 <br>
 
 
 ![image](./public/image/data/chapter_6/6-7%20Activity_of_Database_2020-2024.png)
 <center>
-    图 6.7 数据库领域 2020 - 2024 年 领域的Activity变化趋势
+    図 6.7 データベース分野 2020 - 2024 年の分野における活動動向の推移
 </center>
 <br>
 
 
 ![image](./public/image/data/chapter_6/6-8%20Top10_OpenRank_Ratio_of_Database_2020-2024.png)
 <center>
-    图 6.8 数据库领域 2020 - 2024 年 领域内 Top 10 项目的OpenRank集中度变化趋势
+    図 6.8 データベース分野 2020年~2024年 分野内トップ10プロジェクトのOpenRank集中度変化の傾向
 </center>
 <br>
 
 ![image](./public/image/data/chapter_6/6-9%20Top10_Activity_Ratio_of_Database_2020-2024.png)
 
 <center>
-    图 6.9 数据库领域 2020 - 2024 年 领域内 Top 10 项目的Activity集中度变化趋势
+    図 6.9 データベース分野 2020年~2024年 分野内トップ10プロジェクトの活動集中度変化の傾向
 </center>
 <br>
 
@@ -1004,13 +1010,13 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 ![6-10](./public/image/data/chapter_6/6-10.png)
 <center>
-    图 6.10 数据库各子领域 2020 - 2024 年 OpenRank 变化趋势
+    図 6.10 数据库各子领域 2020 - 2024 年 OpenRank 变化趋势
 </center>
 <br>
 
 ![6-11](./public/image/data/chapter_6/6-11.png)
 <center>
-    图 6.11 数据库各子领域 2020 - 2024 年 活跃度变化趋势
+    図 6.11 数据库各子领域 2020 - 2024 年 活跃度变化趋势
 </center>
 <br>
 
@@ -1049,7 +1055,7 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 <!-- ![newplot](./public/image/data/chapter_6/rkJOlSqIkg.png)
 
-<center>图 6.8 数据库领域各子领域 OpenRank 加总比例</center><br /> -->
+<center>図 6.8 数据库领域各子领域 OpenRank 加总比例</center><br /> -->
 
 <center>
     表 6.2 数据库子领域  活跃度排行
@@ -1084,74 +1090,74 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 - Columnar作为新加入榜单的数据库项目发展势头迅猛
 - 向量数据库在2024年也有了显著的提升。
 
-#### 6.3.4 数据库领域各子领域下项目的开源象限图
-开源象限图共涉及三个度量指标：Activity、Openrank、CommunityVolume。 其中 CommunityVolume 与 open-digger 中的 Attention 指标计算公式相同，即对一定时间内目标项目的 star 数和 fork 数的加权求和：`sum(1*star+2*fork)`。
+#### 6.3.4 数据库领域各子领域下项目的开源象限図
+开源象限図共涉及三个度量指标：Activity、Openrank、CommunityVolume。 其中 CommunityVolume 与 open-digger 中的 Attention 指标计算公式相同，即对一定时间内目标项目的 star 数和 fork 数的加权求和：`sum(1*star+2*fork)`。
 
-象限图绘制方法：
+象限図绘制方法：
 
 1. 把每个数据库子类按 activity 选取 Top 10 的项目；
-2. 做出 `log(openrank)-log(communityvolume)` 的 `log(x)-log(y)` 散点图, log 的底数均为 2，分别表示空间影响力 openrank 与时间影响力 communityvolume 衰减到 1 所需的半衰次数；
-3. 以图上所有点的横坐标均值所对应的纵向线作为纵轴，以图上所有点的纵坐标均值所对应的横向线作为横轴划分为四个象限。
+2. 做出 `log(openrank)-log(communityvolume)` 的 `log(x)-log(y)` 散点図, log 的底数均为 2，分别表示空间影响力 openrank 与时间影响力 communityvolume 衰减到 1 所需的半衰次数；
+3. 以図上所有点的横坐标均值所对应的纵向线作为纵轴，以図上所有点的纵坐标均值所对应的横向线作为横轴划分为四个象限。
 
-数据库领域子类标签共计18个，选取2023年活跃度占比超过1%的类别共9个：Relational、Key-value、Document、Wide Column、Search Engine、Time Series、Vector、Graph、Object Oriented，统计分析并绘制开源象限图如下：
+数据库领域子类标签共计18个，选取2023年活跃度占比超过1%的类别共9个：Relational、Key-value、Document、Wide Column、Search Engine、Time Series、Vector、Graph、Object Oriented，统计分析并绘制开源象限図如下：
 
 
 ![6-12](./public/image/data/chapter_6/6-12%20DBMS_quadrant_diagram-main_subcategories.png)
 <!-- <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/OpenRank-CommunityVolume%20log-log%20quadrant%20diagram.html" width="100%" height="702px" frameborder="0"></iframe> -->
 
-<center>图 6.12 数据库各子领域 Activity Top 10象限图</center><br />
+<center>図 6.12 数据库各子领域 Activity Top 10象限図</center><br />
 
 
 <!-- ![6-13](./public/image/data/chapter_6/6-13%20DBMS_quadrant_diagram-relational.png) -->
 <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/relational.html" width="100%" height="702px" frameborder="0"></iframe>
 
-<center>图 6.13 Relational数据库 Activity Top 10象限图</center><br />
+<center>図 6.13 Relational数据库 Activity Top 10象限図</center><br />
 
 <!-- ![6-14](./public/image/data/chapter_6/6-14%20DBMS_quadrant_diagram-key_value.png) -->
 <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/key_value.html" width="100%" height="702px" frameborder="0"></iframe>
 
-<center>图 6.14 Key-value数据库 Activity Top 10象限图</center><br />
+<center>図 6.14 Key-value数据库 Activity Top 10象限図</center><br />
 
 <!-- ![6-15](./public/image/data/chapter_6/6-15%20DBMS_quadrant_diagram-document.png) -->
 <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/document.html" width="100%" height="702px" frameborder="0"></iframe>
 
-<center>图 6.15 Document数据库 Activity Top 10象限图</center><br />
+<center>図 6.15 Document数据库 Activity Top 10象限図</center><br />
 
 <!-- ![6-16](./public/image/data/chapter_6/6-16%20DBMS_quadrant_diagram-wide_column.png) -->
 <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/wide_column.html" width="100%" height="702px" frameborder="0"></iframe>
 
-<center>图 6.16 Wide Column数据库 Activity Top 10象限图</center><br />
+<center>図 6.16 Wide Column数据库 Activity Top 10象限図</center><br />
 
 <!-- ![6-17](./public/image/data/chapter_6/6-17%20DBMS_quadrant_diagram-search_engine.png) -->
 <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/search_engine.html" width="100%" height="702px" frameborder="0"></iframe>
 
-<center>图 6.17 Search Engine数据库 Activity Top 10象限图</center><br />
+<center>図 6.17 Search Engine数据库 Activity Top 10象限図</center><br />
 
 <!-- ![6-18](./public/image/data/chapter_6/6-18%20DBMS_quadrant_diagram-time_series.png) -->
 <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/time_series.html" width="100%" height="702px" frameborder="0"></iframe>
 
-<center>图 6.18 Time Series数据库 Activity Top 10象限图</center><br />
+<center>図 6.18 Time Series数据库 Activity Top 10象限図</center><br />
 
 <!-- ![6-19](./public/image/data/chapter_6/6-19%20DBMS_quadrant_diagram-vector.png) -->
 <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/vector.html" width="100%" height="702px" frameborder="0"></iframe>
 
-<center>图 6.19 Vector数据库 Activity Top 10象限图</center><br />
+<center>図 6.19 Vector数据库 Activity Top 10象限図</center><br />
 
 <!-- ![6-20](./public/image/data/chapter_6/6-20%20DBMS_quadrant_diagram-graph.png) -->
 <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/graph.html" width="100%" height="702px" frameborder="0"></iframe>
 
-<center>图 6.20 Graph数据库 Activity Top 10象限图</center><br />
+<center>図 6.20 Graph数据库 Activity Top 10象限図</center><br />
 
 <!-- ![6-21](./public/image/data/chapter_6/6-21%20DBMS_quadrant_diagram-object_oriented.png) -->
 <iframe src="https://birdflyi.github.io/open-digger/notebook/database_analysis/object_oriented.html" width="100%" height="702px" frameborder="0"></iframe>
 
-<center>图 6.21 Object Oriented数据库 Activity Top 10象限图</center><br />
+<center>図 6.21 Object Oriented数据库 Activity Top 10象限図</center><br />
 
 搜索引擎类两极分化严重，既有像 ElasticSearch 这样 OpenRank 和 CommmunityVolume 都很高的项目，又有像 lucene-solr 和 Xapian 这样 OpenRank 和 CommmunityVolume 都相对很低的项目。
 
 从第一象限看出：relational、document、searchengine、vector、wide_column 都是 openrank 影响力较强且 CommmunityVolume 关注度也较强的数据库类型，而 object_oriented、graph 则在两方面相对较弱。
 
-从活跃度 Top 9 子类数据库的开源象限图中的纵向分布可以看出：key_value、search_engine 两个子类的valkey、meilisearch等项目的 CommmunityVolume 相较于 OpenRank 更高，有较高的社区声量，相比于其他的子类有较快的发展期望。vector子类的Top10项目CommmunityVolume与 OpenRank 的log-log值线性相关性较好，社区声量与协作影响力比较均衡。
+从活跃度 Top 9 子类数据库的开源象限図中的纵向分布可以看出：key_value、search_engine 两个子类的valkey、meilisearch等项目的 CommmunityVolume 相较于 OpenRank 更高，有较高的社区声量，相比于其他的子类有较快的发展期望。vector子类的Top10项目CommmunityVolume与 OpenRank 的log-log值线性相关性较好，社区声量与协作影响力比较均衡。
 
 #### 6.3.5 开源数据库项目工作活跃时间分析
 
@@ -1159,7 +1165,7 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 ![6-22](./public/image/data/chapter_6/6-22.png)
 
 <center>
-    图 6.22 数据库开源项目工作时间打点图
+    図 6.22 数据库开源项目工作时间打点図
 </center>
 <br />
 
@@ -1172,11 +1178,11 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 #### 6.4.1 生成式AI各子领域近五年增长趋势
 
 ![6-23](./public/image/data/chapter_6/6-23.png)
-<center>图 6.23 生成式 AI 各子领域 2020 - 2024 年 OpenRank 变化趋势</center>
+<center>図 6.23 生成式 AI 各子领域 2020 - 2024 年 OpenRank 变化趋势</center>
 <br>
 
 ![6-24](./public/image/data/chapter_6/6-24.png)
-<center>图 6.24 生成式 AI 各子领域 2020 - 2024 年 活跃度 变化趋势</center>
+<center>図 6.24 生成式 AI 各子领域 2020 - 2024 年 活跃度 变化趋势</center>
 <br>
 
 + 对于不同种类别的划分的分类分析，各类生成式AI项目的活跃度与影响力都出现了一定程度的回落。
@@ -1186,11 +1192,11 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 #### 6.4.2 生成式 AI 领域项目 OpenRank 和活跃度 Top 10 变化趋势
 
 ![6-25](./public/image/data/chapter_6/6-25.png)
-<center>图 6.25 生成式 AI 领域 OpenRank Top 10 项目近 5 年变化趋势</center>
+<center>図 6.25 生成式 AI 领域 OpenRank Top 10 项目近 5 年变化趋势</center>
 <br>
 
 ![6-26](./public/image/data/chapter_6/6-26.png)
-<center>图 6.26 生成式 AI 领域 活跃度 Top 10 项目近 5 年变化趋势</center>
+<center>図 6.26 生成式 AI 领域 活跃度 Top 10 项目近 5 年变化趋势</center>
 <br>
 
 - vllm 影响力和活跃度双排名第一，备受开发者的关注；
@@ -1247,10 +1253,10 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 #### 7.1.1 GitHub 活跃开发者地理分布
 
-从全球视角来看，GitHub 活跃开发者的分布具有显著的区域特点，如下图所示。
+从全球视角来看，GitHub 活跃开发者的分布具有显著的区域特点，如下図所示。
 
 <img width="1195" alt="image" src="./public/image/data/chapter_7/7-1.png" />
-<center>图 7.1 2024 全球开发者分布图</center>
+<center>図 7.1 2024 全球开发者分布図</center>
 
 
 在全球范围内，开发者主要集中在 人口密集且互联网基础设施发达的地区，例如：
@@ -1266,13 +1272,13 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 <br>
 
 <img width="1189" alt="image" src="./public/image/data/chapter_7/7-2.png" />
-<center>图 7.2 2024 中国开发者分布图</center>
+<center>図 7.2 2024 中国开发者分布図</center>
 <br>
 
 #### **7.1.2 GitHub 活跃开发者国家 / 地区分布**
 
 <img width="795" alt="image" src="./public/image/data/chapter_7/7-3.png" />
-<center>图 7.3 2024 全球 GitHub 活跃开发者国家 / 地区分布图</center>
+<center>図 7.3 2024 全球 GitHub 活跃开发者国家 / 地区分布図</center>
 <br>
 
 <center>表 7.1 2024 全球活跃开发者数量国家 / 地区排名</center>
@@ -1314,7 +1320,7 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
    - **德国**：以 **3,316,461 名开发者**排名第九，增长率为 **23.90%**，进一步巩固了其在欧洲技术领域的领先地位。
 
 <img width="743" alt="image" src="./public/image/data/chapter_7/7-4.png" />
-<center>图 7.4 2024 中国 GitHub 活跃开发者地区分布图</center>
+<center>図 7.4 2024 中国 GitHub 活跃开发者地区分布図</center>
 <br>
 
 <center>表 7.2 2024 中国活跃开发者数量地区排名</center>
@@ -1364,14 +1370,14 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 ### 7.2 开发者工作时间分析
 
-本小节对 GitHub 及 Gitee 开发者工作时间进行分析。本节时间默认使用 UTC 区时，相比东八区滞后 8 小时。数据默认使用 min-max 方法放缩到 [1-10] 区间，时区图中圆点面积越大代表数值越高。
+本小节对 GitHub 及 Gitee 开发者工作时间进行分析。本节时间默认使用 UTC 区时，相比东八区滞后 8 小时。数据默认使用 min-max 方法放缩到 [1-10] 区间，时区図中圆点面积越大代表数值越高。
 
 #### 7.2.1 全域开发者工作时间分布
 
 **1、GitHub 全域开发者工作时间分布**
 
 <img width="1003" alt="image" src="./public/image/data/chapter_7/7-5.png" />
-<center>图 7.5 GitHub 全域开发者工作时间分布</center>
+<center>図 7.5 GitHub 全域开发者工作时间分布</center>
 <br>
 
 通过统计 GitHub 全域开发者的工作时间分布，可以发现开发者的活跃时段主要集中在 6点至21点之间，而 12点达到一个显著高峰，这可能与定时任务的触发有关。此外，周六和周日的活跃度相对较低，显示出开发者在周末的工作频率有所下降。
@@ -1379,7 +1385,7 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 **2、Gitee 全域开发者工作时间分布**
 
 <img width="1003" alt="image" src="./public/image/data/chapter_7/7-6.png" />
-<center>图 7.6 Gitee 全域开发者工作时间分布</center>
+<center>図 7.6 Gitee 全域开发者工作时间分布</center>
 <br>
 
 从数据中可以明显看出，Gitee 平台的开发者活跃时间更加符合东八区的作息规律。这种特征与 Gitee 作为中国本土代码托管平台的用户群体分布息息相关。由于 Gitee 的主要用户集中在中国及东亚地区，其开发者的活跃时间分布反映了该地区普遍的工作和生活节奏。
@@ -1388,7 +1394,7 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 **3、除去机器人的全域开发者时间分布**
 
 <img width="1001" alt="image" src="./public/image/data/chapter_7/7-7.png" />
-<center>图 7.7 除去机器人的全域开发者时间分布</center>
+<center>図 7.7 除去机器人的全域开发者时间分布</center>
 <br>
 
 在剔除机器人数据后，开发者的工作时间分布呈现出更加真实和自然的规律。数据显示，开发者的活跃时段主要集中在 6点至21点之间，这个时间区间内的活动量显著增加，并且分布更加均匀。这表明，在排除自动化行为的干扰后，开发者的工作习惯和实际活动轨迹更加清晰地反映出来。
@@ -1402,26 +1408,26 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 <img width="1004" alt="image" src="./public/image/data/chapter_7/7-8.png" />
 
-<center>图 7.8 NixOS/nixpkgs 2024 年工作时间打点图</center>
+<center>図 7.8 NixOS/nixpkgs 2024 年工作时间打点図</center>
 <br>
 
 * [llvm/llvm-project](https://github.com/llvm/llvm-project)
 
 <img width="1005" alt="image" src="./public/image/data/chapter_7/7-9.png" />
 
-<center>图 7.9 llvm/llvm-project 2024 年工作时间打点图</center>
+<center>図 7.9 llvm/llvm-project 2024 年工作时间打点図</center>
 <br>
 
 * [home-assistant/core](https://github.com/home-assistant/core)
 
 <img width="1003" alt="image" src="./public/image/data/chapter_7/7-10.png" />
-<center>图 7.10 home-assistant/core 2024 年工作时间打点图</center>
+<center>図 7.10 home-assistant/core 2024 年工作时间打点図</center>
 <br>
 
 * [pytorch/pytorch](https://github.com/pytorch/pytorch)
 
 <img width="1004" alt="image" src="./public/image/data/chapter_7/7-11.png" />
-<center>图 7.11 pytorch/pytorch 2024 年工作时间打点图</center>
+<center>図 7.11 pytorch/pytorch 2024 年工作时间打点図</center>
 <br>
 
 **2、中国仓库 OpenRank 前四名工作时间分布**
@@ -1429,25 +1435,25 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 * **openharmony**
 
 <img width="1003" alt="image" src="./public/image/data/chapter_7/7-12.png" />
-<center>图 7.12 openharmony 2024 年工作时间打点图</center>
+<center>図 7.12 openharmony 2024 年工作时间打点図</center>
 <br>
 
 * **DaoCloud**
 
 <img width="1002" alt="image" src="./public/image/data/chapter_7/7-13.png" />
-<center>图 7.13 DaoCloud 2024 年工作时间打点图</center>
+<center>図 7.13 DaoCloud 2024 年工作时间打点図</center>
 <br>
 
 * **PaddlePaddle**
 
 <img width="1004" alt="image" src="./public/image/data/chapter_7/7-14.png" />
-<center>图 7.14 PaddlePaddle 2024 年工作时间打点图</center>
+<center>図 7.14 PaddlePaddle 2024 年工作时间打点図</center>
 <br>
 
 * **Doris**
 
 <img width="1004" alt="image" src="./public/image/data/chapter_7/7-15.png" />
-<center>图 7.15 doris 2024 年工作时间打点图</center>
+<center>図 7.15 doris 2024 年工作时间打点図</center>
 <br>
 
 ### 7.3 开发者角色分析
@@ -1465,11 +1471,11 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 | 贡献者（Contributer） | 对某项目中有 Pull Request (PR) 的用户        | 表示用户对项目 CodeBase 有贡献 |
 | 提交者（Committer） | 参与 PR-review 或 merge 的用户              | 表示用户对项目有深度贡献         |
 
-一般情况下，四种关系层层递进，结构如下图所示。基于所定义的角色体系，我们从角色数量、时间变化、开发者角色演化三个视角对 GitHub 全域项目中 OpenRank 排名前十的项目进行量化，即第二部分中的项目排名榜单。
+一般情况下，四种关系层层递进，结构如下図所示。基于所定义的角色体系，我们从角色数量、时间变化、开发者角色演化三个视角对 GitHub 全域项目中 OpenRank 排名前十的项目进行量化，即第二部分中的项目排名榜单。
 
 ![7-16.png](./public/image/data/chapter_7/7-16.png)
 
-<center>图 7.16 开发者类型关系</center>
+<center>図 7.16 开发者类型关系</center>
 <br>
 
 #### 7.3.1 2024 年各角色数量分布
@@ -1494,7 +1500,7 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 ![image](./public/image/data/chapter_7/7-17.png)
 
-<center>图 7.17 开发者角色分布图</center>
+<center>図 7.17 开发者角色分布図</center>
 <br>
 
 结果表明：
@@ -1508,7 +1514,7 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 例如：A 2021 年给 B 项目提交了 PR，但是从未参与 Code Review 工作。2023 年 A review 了 B 项目中的 PR，则称 A 为新增提交者。
 
-详细角色新增情况如下图和下表所示。
+详细角色新增情况如下図和下表所示。
 
 <center>表 7.5 OpenRank 排名前 10 项目新增开发者角色数量分布</center>
 <br>
@@ -1528,7 +1534,7 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 ![image](./public/image/data/chapter_7/7-18.png)
 
-<center>图 7.18 2024 年开源社区角色新增图</center>
+<center>図 7.18 2024 年开源社区角色新增図</center>
 <br>
 
 **1、新增探索者**
@@ -1567,10 +1573,10 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 | elastic/kibana             |     12 |    26 |     3 |
 
 <img width="1430" alt="image" src="./public/image/data/chapter_7/7-19.png" />
-<center>图 7.19 开发者角色演化图</center>
+<center>図 7.19 开发者角色演化図</center>
 <br>
 
-- 通过表格和图表中的数据，我们可以观察到 2024 年各社区中的开发者角色演化趋势，并继续体现了典型的漏斗模型，即开发者从探索者转化为参与者、从参与者转化为贡献者、再到核心的提交者的路径。这种趋势符合开源社区成员从初步探索到深度参与的演化规律。
+- 通过表格和図表中的数据，我们可以观察到 2024 年各社区中的开发者角色演化趋势，并继续体现了典型的漏斗模型，即开发者从探索者转化为参与者、从参与者转化为贡献者、再到核心的提交者的路径。这种趋势符合开源社区成员从初步探索到深度参与的演化规律。
 - 在各社区中，我们依然可以观察到典型的漏斗模型，从探索者到参与者，再到贡献者和提交者的演化路径。以 godotengine/godot 为例，2024 年有 242 名探索者 成功转化为参与者，115 名参与者转化为贡献者，67 名贡献者演化为提交者。这一趋势在其他社区中也有所体现，展现了成员从初步参与到深度贡献的自然发展过程。
 - 在 NixOS/nixpkgs 社区中，我们观察到 贡献者向提交者 的转化数量较高，达到 287 名，进一步表明其对核心贡献的开放性和较高的代码审查需求，有助于提升代码质量与项目稳定性。
 - 此外，像 microsoft/vscode 和 godotengine/godot 这样的项目，探索者向参与者的转化较为显著，分别有 272 名和 242 名探索者完成角色转变。这表明这些社区对新开发者的吸引力较强，且提供了较为低门槛的参与路径。
@@ -1578,14 +1584,14 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 ### 7.4 机器人账号视角
 
-机器人账号是经过人工标签和社区贡献的账号，目前共有1410个机器人账号，较去年新增了181个。其中2024年活跃的机器人账号有965个，其中GitHub平台有930个，Gitee平台有35个。我们分析了这些机器人参与过的仓库中的所有事件数，以此来研究机器人事件的变化。通过将机器人账号产生的事件与全部事件进行比较，可以看出机器人账号的重要性。通过不同事件类型的对比图和变化率，我们可以了解2024年机器人账号事件数量变化的原因。最后，通过机器人账号7x24小时活跃热力图，我们可以了解机器人账号的工作时间。
+机器人账号是经过人工标签和社区贡献的账号，目前共有1410个机器人账号，较去年新增了181个。其中2024年活跃的机器人账号有965个，其中GitHub平台有930个，Gitee平台有35个。我们分析了这些机器人参与过的仓库中的所有事件数，以此来研究机器人事件的变化。通过将机器人账号产生的事件与全部事件进行比较，可以看出机器人账号的重要性。通过不同事件类型的对比図和变化率，我们可以了解2024年机器人账号事件数量变化的原因。最后，通过机器人账号7x24小时活跃热力図，我们可以了解机器人账号的工作时间。
 
 #### 7.4.1 机器人账号事件变化
 ![Comparison statistics of annual bot events and overall events (2016-2024)](./public/image/data/chapter_7/cd667d20-ca92-4097-9b29-c4ebfe0bf579.png)
-<center>图 7-8 每年机器人参与的仓库机器人账号事件与全部事件数量对比图</center>
+<center>図 7-8 每年机器人参与的仓库机器人账号事件与全部事件数量对比図</center>
 <br> 
 
-从图 7-8 可以看出，机器人账号事件的数量在过去几年中显著增长。尤其是从2020年开始，机器人事件的数量呈现出快速上升的趋势。相比之下，开发者参与的事件数量虽然也在增长，但增长幅度相对较小，变化趋势较为平稳。
+从図 7-8 可以看出，机器人账号事件的数量在过去几年中显著增长。尤其是从2020年开始，机器人事件的数量呈现出快速上升的趋势。相比之下，开发者参与的事件数量虽然也在增长，但增长幅度相对较小，变化趋势较为平稳。
 
 具体来看，2016年至2024年间，机器人账号事件数量从接近零增长到超过4亿次，而全部事件数量从约1亿次增长到超过7亿次。机器人事件的增长速度明显快于总体事件的增长速度，这表明机器人账号在社区中的作用和影响力正在不断增强。
 
@@ -1596,9 +1602,9 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 
 #### 7.4.2 机器人账号事件变化原因分析
 ![clipboard1](./public/image/data/chapter_7/rkMDnSR8Jl.png)
-<center>图 7-10 每年机器人账号不同事件类型对比图（2016-2024）</center>
+<center>図 7-10 每年机器人账号不同事件类型对比図（2016-2024）</center>
 <br> 
-从图 7-10 可以看出，不同类型的事件在各个年份中的分布情况。因为机器人账号不会参与MemberEvent、WatchEvent、ForkEvent、PublicEvent、GollumEvent，所以我们排除了以上Event。以下是一些关键观察点：
+从図 7-10 可以看出，不同类型的事件在各个年份中的分布情况。因为机器人账号不会参与MemberEvent、WatchEvent、ForkEvent、PublicEvent、GollumEvent，所以我们排除了以上Event。以下是一些关键观察点：
 
 - PushEvent 和 PullRequestEvent 是最主要的事件类型，数量远超其他事件类型。
 - PushEvent 在2024年达到了一个新的高峰，数量接近3亿次。
@@ -1608,10 +1614,10 @@ vllm-project/vllm 是一个高效、可扩展的分布式推理框架，专为�
 机器人账号在代码提交方面的活动显著增加表明开发者越来越依赖于自动化工具来提交代码。与此同时，PullRequestEvent 的数量在逐步减少，可能是由于自动化工具和流程的优化减少了对手动拉取请求的需求。PullRequestCommentEvent 和 IssueCommentEvent 的数量在持续上升，表明机器人账号在代码审查和问题管理方面的参与度增加。此外，其他事件类型（如 CreateEvent、DeleteEvent 等）的数量也有所增长，反映了机器人账号在项目管理和维护方面的多样化活动。
 
 ![op and Bottom Growth Rates in GitHub Event Counts (2023 vs 2024)](./public/image/data/chapter_7/ae482c5b-7260-48d1-8ba0-9d0e5e2eebd2.png)
-<center>图 7-11 2024年与2023年各个事件变化率</center>
+<center>図 7-11 2024年与2023年各个事件变化率</center>
 <br> 
 
-图 7-11 显示了2024年与2023年各个事件类型的变化率：
+図 7-11 显示了2024年与2023年各个事件类型的变化率：
 
 - IssuesEvent 的增长率最高，达到了783.5%，增加了19333491次。这表明机器人在处理问题（Issues）方面的活动显著增加。
 - PullRequestReviewCommentEvent 和 PushEvent 的增长率分别为60.1% 和 56.1%，增加了1786717次和105177443次。
@@ -1622,16 +1628,16 @@ CommitCommentEvent 和 ForkEvent 显示出显著的下降，分别减少了90.2%
 
 
 
-#### 7.4.3机器人账号7X24小时活跃热力图
+#### 7.4.3机器人账号7X24小时活跃热力図
 
 ![clipboard9](./public/image/data/chapter_7/ByGyf8RIyg.png)
 
 
-从24小时活跃热力图中可以看出，机器人账号的活动在一天中的不同时间段有明显的分布特点。以下是一些关键观察点：
+从24小时活跃热力図中可以看出，机器人账号的活动在一天中的不同时间段有明显的分布特点。以下是一些关键观察点：
 
 - 高峰时段：机器人账号的活动在每天的12点（中午）达到高峰。这一现象表明多数机器人事件都是定时任务，通常安排在中午进行。
 - 全天活动：尽管12点是活动的高峰时段，但机器人账号在24小时内都有一定的活动量。这表明机器人在全天候运行，处理各种自动化任务。
-- 工作日与周末：从热力图中可以看出，工作日（周一至周五）的活动量略高于周末（周六和周日）。这可能是因为工作日的开发活动更多，从而触发更多的机器人事件。
+- 工作日与周末：从热力図中可以看出，工作日（周一至周五）的活动量略高于周末（周六和周日）。这可能是因为工作日的开发活动更多，从而触发更多的机器人事件。
 
 这种活动模式表明，机器人账号在自动化任务中扮演着重要角色，尤其是在定时任务和持续集成等方面。通过在固定时间点执行任务，机器人可以有效地减轻开发者的负担，提高工作效率。
 
@@ -1649,7 +1655,7 @@ CommitCommentEvent 和 ForkEvent 显示出显著的下降，分别减少了90.2%
 <img width="723" alt="Image" src="./public/image/data/chapter_8/acced62b-e96c-4053-88ad-dae15edb7a96.jpg" />
 
 
-<center>图 8-1 商业开源公司 OpenRank Top20榜单</center>
+<center>図 8-1 商业开源公司 OpenRank Top20榜单</center>
 <br>
 
 Grafana Labs 的 OpenRank 排名第一，这主要得益于其核心产品 Grafana 的广泛应用和社区活跃度，在 2024 年，Grafana Labs 完成了一轮融资，估值达到 60 亿美元。HashiCorp 在开源领域具有重要地位，但其融资金额为 349.2 百万美元，相对较低。这可能是因为 HashiCorp 的商业模式和盈利方式与其他公司有所不同。它主要通过提供开源工具的企业级支持、服务和商业版本来实现商业化。
@@ -1658,7 +1664,7 @@ Grafana Labs 的 OpenRank 排名第一，这主要得益于其核心产品 Grafa
 
 <img width="711" alt="Image" src="./public/image/data/chapter_8/2392c638-4b02-4aaf-9a8f-39d4da199575.png" />
 
-<center>图 8-2 商业开源项目 OpenRank Top20榜单</center>
+<center>図 8-2 商业开源项目 OpenRank Top20榜单</center>
 <br>
 
 Odoo 作为全球排名第一的免费开源 PLM 管理系统，其 OpenRank 最高，融资金额也较高，这可能是因为 Odoo 拥有强大的社区支持和活跃度，以及广泛的企业应用模块，使其在开源项目中具有很高的影响力和市场认可度。然而，尽管 Bun 在技术上受到认可，但其融资金额相对较低，这可能是因为项目仍处于早期阶段，商业模式尚未完全成熟或者市场对其商业潜力的评估还在观望中。随着以后项目的成熟和市场认可度的提升，预计 Oven 的融资金额将会增加，同时其在开源社区的影响力也可能会进一步扩大。
@@ -1666,7 +1672,7 @@ Odoo 作为全球排名第一的免费开源 PLM 管理系统，其 OpenRank 最
 ### 8.4 商业开源项目近五年 OpenRank 变化趋势
 
 ![Image](./public/image/data/chapter_8/a70d190c-d0ea-441f-8043-f08a385a3494.png)
-<center>图 8-3 商业开源项目近五年 OpenRank 变化趋势</center>
+<center>図 8-3 商业开源项目近五年 OpenRank 变化趋势</center>
 <br>
 
 近五年商业开源项目的 OpenRank 总体呈增长趋势，2020 至 2023 年快速上升，这得益于开源生态的繁荣与企业支持；2023 至 2024 年增长放缓，可能因市场逐渐饱和、项目成熟度提高及竞争加剧所致。
@@ -1674,7 +1680,7 @@ Odoo 作为全球排名第一的免费开源 PLM 管理系统，其 OpenRank 最
 ### 8.5 商业开源公司近五年 OpenRank 变化趋势
 
 ![Image](./public/image/data/chapter_8/24792b5c-d752-4f18-add5-16b60f23a2ae.jpg)
-<center>图 8-4 OpenRank Top5商业开源公司近五年变化趋势</center>
+<center>図 8-4 OpenRank Top5商业开源公司近五年变化趋势</center>
 <br>
 
 HashiCorp 的 OpenRank 2020 年至 2023 年间保持稳步增长，达到峰值后在 2024 年出现小幅回落。
@@ -1685,7 +1691,7 @@ Armory 表现波动较大，2020 年至 2021 年略有下降，但在 2022 年�
 
 
 ![Image](./public/image/data/chapter_8/73970b2e-f9f6-46e4-843a-50b6508a1249.jpg)
-<center>图 8-5 Grafana Labs近五年OpenRank变化趋势和融资时间点</center>
+<center>図 8-5 Grafana Labs近五年OpenRank变化趋势和融资时间点</center>
 <br>
 总体来看，每次融资都伴随着OpenRank的显著增长，这表明Grafana Labs能够有效地利用融资来推动公司的发展和市场地位的提升。同时，OpenRank的增长也反映了公司在开源社区中的影响力和认可度的提高。
 
@@ -1695,15 +1701,15 @@ Armory 表现波动较大，2020 年至 2021 年略有下降，但在 2022 年�
 本节以飞致云为例，介绍企业的开源商业化实践案例。飞致云的开源商业化实践是借助开源杠杆，实现高效的“**产品 & 商业**”的协同创新，做出好的软件产品并不断把产品卖出去。飞致云的商业模式是基于开源的免费增值模式，该商业模式的成立需要同时解决两件事情：一是持续扩大免费安装基数，二是持续提升付费转化率。
 
 ![8-6](./public/image/data/chapter_8/8-6.png)
-<center>图 8-6 基于开源的免费增值模式</center>
+<center>図 8-6 基于开源的免费增值模式</center>
 <br>
 
 飞致云的产品观是“好的软件是迭代出来的”。飞致云充分利用开源实现高效分发，获取大量反馈，并按月迭代发布产品。飞致云的商业观是 “Our products are bought, not sold”。 最终用户正在成为工具软件产品采购的关键决策者，飞致云实现了线上获客，销售标准产品，并通过强大的产品组合持续提升交叉销售率。这种“开源吸引用户-用户反馈促进迭代-迭代产品吸引更多用户-更多用户带来更多客户-更多收入带来更大研发投入”的循环，是飞致云商业模式能够真正形成飞轮效应的关键所在。
 
-![【推文配图】飞致云开源](./public/image/data/chapter_8/8-7.png)
+![【推文配図】飞致云开源](./public/image/data/chapter_8/8-7.png)
 
 
-<center>图 8-7 飞致云开源商业化实践</center>
+<center>図 8-7 飞致云开源商业化实践</center>
 <br>
 
 飞致云在开源商业化上的阶段性成果可以通过开源活跃度、开源影响力、付费企业数量和现金回款等四个数据得到验证。截止目前飞致云 OpenRank 开源活跃度位居中国企业第 10 名，全球第 47 名；OpenRank 开源影响力位居中国企业第 9 名，全球第 42 名；截止 2024 年底飞致云服务超过 3000 家企业客户，客户遍布金融、制造、能源、交通、医疗、通信、传媒、房地产、互联网、教育等各行各业；2024 年飞致云开源商业化产品的现金回款笔数 2511 笔，全年累计回款金额超过 1 亿元人民币。
@@ -1715,12 +1721,12 @@ Armory 表现波动较大，2020 年至 2021 年略有下降，但在 2022 年�
 
 ### **9.1 OSPP 宏观分析**
 
-- **OSPP 2024 基本情况**：本次 OSPP 汇聚了来自多个领域的 168 个开源社区，包括但不限于操作系统、编程语言、人工智能等各个领域。如图 9.1 所示，来自全球不同高校的 2537 名学生上线了共 561 个开源项目，并最终顺利结项了 455 个优秀项目。
+- **OSPP 2024 基本情况**：本次 OSPP 汇聚了来自多个领域的 168 个开源社区，包括但不限于操作系统、编程语言、人工智能等各个领域。如図 9.1 所示，来自全球不同高校的 2537 名学生上线了共 561 个开源项目，并最终顺利结项了 455 个优秀项目。
 
 ![9-1](./public/image/data/chapter_9/9-1.png)
 
 
-<center>图 9.1 活动参与情况总览</center>
+<center>図 9.1 活动参与情况总览</center>
 
 - **社区数量**：从首届 OSPP 起，每年参与活动的社区数量呈现出令人瞩目的增长态势。至 2024 年，社区数量飙升至 168 个，较 2023 年实现了大幅增长。这种增长趋势主要归因于多个因素。一方面，越来越多的开发者和项目团队意识到开源协作的强大力量，进而吸引了更多社区参与到 OSPP 活动中。另一方面，高校对于开源教育的重视程度与日俱增，纷纷加强与开源社区的合作，为学生提供实践平台。
 - **学生与高校数量**：从 2020 年至 2023 年期间，学生参与数量处于平稳上升的通道，这得益于开源文化在高校的逐步渗透以及 OSPP 活动影响力的持续扩散。然而，在 2024 年，学生参与数量出现了略微降低的情况，降至 2537 人。这可能是由于本年度项目难度和要求的适度调整，以及同期其他类似开源活动竞争导致部分潜在参与者分流的影响。而关于高校参与数量的变化，自活动开展以来，其与学生数量的变化情况基本相同。即从 2020 年至 2023 年期间平稳上升，而在2024年略有下降，其原因与学生数量的变化原因大致相同。
@@ -1728,12 +1734,12 @@ Armory 表现波动较大，2020 年至 2021 年略有下降，但在 2022 年�
 
 ### 9.2 OSPP 年度学生高校相关分布情况分析
 
-- **高校地理分布**：本届开源之夏活动中全球参与高校的地理分布情况如图 9.2 所示，与 2023 年的分布情况对比如表 9.1 所示。2023 年，参与的高校总数为 592 所，其中国内高校 489 所，国外高校 103 所，国外高校占比 17.4%。而到了 2024 年，高校总数降至 498 所，国内高校数量相应减少至 399 所，国外高校数量为 99 所，但国外高校占比略有上升，达到 19.9%。这一变化表明，尽管高校参与的总体规模有所收缩，但国际交流在其中的相对比重有所增加。随着 OSPP 国际影响力的提升，吸引了更多国外高校的关注，虽然绝对数量有所波动，但在相对占比上体现出国际合作的深化趋势，这对于促进全球范围内的开源技术交流与人才培养的国际化融合具有重要意义，也预示着 OSPP 在未来的发展中，国际合作将成为一个重要的增长方向和特色亮点。
+- **高校地理分布**：本届开源之夏活动中全球参与高校的地理分布情况如図 9.2 所示，与 2023 年的分布情况对比如表 9.1 所示。2023 年，参与的高校总数为 592 所，其中国内高校 489 所，国外高校 103 所，国外高校占比 17.4%。而到了 2024 年，高校总数降至 498 所，国内高校数量相应减少至 399 所，国外高校数量为 99 所，但国外高校占比略有上升，达到 19.9%。这一变化表明，尽管高校参与的总体规模有所收缩，但国际交流在其中的相对比重有所增加。随着 OSPP 国际影响力的提升，吸引了更多国外高校的关注，虽然绝对数量有所波动，但在相对占比上体现出国际合作的深化趋势，这对于促进全球范围内的开源技术交流与人才培养的国际化融合具有重要意义，也预示着 OSPP 在未来的发展中，国际合作将成为一个重要的增长方向和特色亮点。
 
 ![9-2](./public/image/data/chapter_9/9-2.png)
 
 
-<center>图 9.2 OSPP 2024 参与高校分布情况</center>
+<center>図 9.2 OSPP 2024 参与高校分布情况</center>
 
 <center>表 9.1 OSPP 2023 至 2024 国内外高校分布变化情况</center>
 
@@ -1744,12 +1750,12 @@ Armory 表现波动较大，2020 年至 2021 年略有下降，但在 2022 年�
 
 
 
-- **学生学历分布**：OSPP 2024 参与学生的学历分布情况如图 9.3 所示，与 2023 年的对比情况如表 9.2 所示。可以看到除了来自中国的大量优秀学生，还有来自全球各个国家的众多学生参与其中。而所有学生中参与的主力为本科生与硕士生，少部分为博士生。具体分析而言，对比 2023 年与 2024 年 OSPP 学生学历分布情况可知，整体格局虽保持相对稳定。学历分布的变化体现了 OSPP 项目在不同学历层次学生间的动态发展态势处于一个稳定的状态中，其面向的主要群体仍是本科或硕士阶段的学生。
+- **学生学历分布**：OSPP 2024 参与学生的学历分布情况如図 9.3 所示，与 2023 年的对比情况如表 9.2 所示。可以看到除了来自中国的大量优秀学生，还有来自全球各个国家的众多学生参与其中。而所有学生中参与的主力为本科生与硕士生，少部分为博士生。具体分析而言，对比 2023 年与 2024 年 OSPP 学生学历分布情况可知，整体格局虽保持相对稳定。学历分布的变化体现了 OSPP 项目在不同学历层次学生间的动态发展态势处于一个稳定的状态中，其面向的主要群体仍是本科或硕士阶段的学生。
 
 ![9-3](./public/image/data/chapter_9/9-3.png)
 
 
-<center>图 9.3 OSPP 2024 参与学生学历分布情况</center>
+<center>図 9.3 OSPP 2024 参与学生学历分布情况</center>
 
 <center>表 9.2 OSPP 2023 至 2024 参与学生学历分布变化情况</center>
 
@@ -1764,7 +1770,7 @@ Armory 表现波动较大，2020 年至 2021 年略有下降，但在 2022 年�
 
 #### 9.3.1 高校贡献度
 
-通过 OpenRank 算法计算得出的高校贡献度年度排行榜如图 9.4 和图 9.5 所示，其中图 9.4 展示了 OSPP 2024 中贡献最为突出的二十所高校，而图 9.5 则展示了 OSPP 2023 所对应的高校排行榜。
+通过 OpenRank 算法计算得出的高校贡献度年度排行榜如図 9.4 和図 9.5 所示，其中図 9.4 展示了 OSPP 2024 中贡献最为突出的二十所高校，而図 9.5 则展示了 OSPP 2023 所对应的高校排行榜。
 
 在 2024 年的排行榜中，西安邮电大学以 OpenRank 值 85.13 跃居第一，参与学生数目为 15 人，人均 OpenRank 为 5.68，不仅 OpenRank 值大幅提升，且参与学生数目也较为可观，其人均 OpenRank 也较高，说明该校在 OSPP 中的综合贡献度有显著提升。陇东学院以 OpenRank 值 61.37 位列第二，不过其参与学生数目仅为 1 人，人均 OpenRank 高达 61.37。这种情况是由于该校该名学生在特定项目中具备独特的技术优势或创新能力，能够独立完成具有高价值的项目任务。类似地，上海大学以 OpenRank 值 42.21 位列第三，其同样也只有两名学生参与活动。
 
@@ -1775,14 +1781,14 @@ Armory 表现波动较大，2020 年至 2021 年略有下降，但在 2022 年�
 ![9-4](./public/image/data/chapter_9/9-4.png)
 
 
-<center>图 9.4 OSPP 2024 年度高校贡献度排行榜</center>
+<center>図 9.4 OSPP 2024 年度高校贡献度排行榜</center>
 
 - **OSPP 2023 年度高校贡献度排行榜**：
 
 ![9-5](./public/image/data/chapter_9/9-5.png)
 
 
-<center>图 9.5 OSPP 2023 年度高校贡献度排行榜</center>
+<center>図 9.5 OSPP 2023 年度高校贡献度排行榜</center>
 
 对比 2023 年和 2024 年的高校贡献度排行榜，我们从排名与贡献度等多个角度对榜单的变化情况进行了进一步分析。
 
@@ -1790,21 +1796,21 @@ Armory 表现波动较大，2020 年至 2021 年略有下降，但在 2022 年�
 
 #### 9.3.2 学生贡献度
 
-本节将对 OSPP 2023 和 2024 的学生贡献度排行榜数据及其变化情况展开详细分析。从参与的社区来看，学生参与的开源社区十分多样化。涵盖了诸如 Apache Hadoop、MatrixOne、Spring Cloud Alibaba 等不同类型的社区。这反映出 OSPP 项目覆盖了广泛的技术领域，为学生提供了在不同方向上进行开源实践的机会。具体的排行榜如图 9.6 与图 9.7 所示。
+本节将对 OSPP 2023 和 2024 的学生贡献度排行榜数据及其变化情况展开详细分析。从参与的社区来看，学生参与的开源社区十分多样化。涵盖了诸如 Apache Hadoop、MatrixOne、Spring Cloud Alibaba 等不同类型的社区。这反映出 OSPP 项目覆盖了广泛的技术领域，为学生提供了在不同方向上进行开源实践的机会。具体的排行榜如図 9.6 与図 9.7 所示。
 
 - **OSPP 2024 年度学生贡献度排行榜**：
 
 ![9-6](./public/image/data/chapter_9/9-6.png)
 
 
-<center>图 9.6 OSPP 2024 年度学生贡献度排行榜</center>
+<center>図 9.6 OSPP 2024 年度学生贡献度排行榜</center>
 
 - **OSPP 2023 年度学生贡献度排行榜**：
 
 ![9-7](./public/image/data/chapter_9/9-7.png)
 
 
-<center>图 9.7 OSPP 2023 年度学生贡献度排行榜</center>
+<center>図 9.7 OSPP 2023 年度学生贡献度排行榜</center>
 
 对比 2024 和 2023 年的学生贡献度排行榜，可以发现在2024 年的排行榜上，陇东学院、上海大学、西安财经大学等学校的学生进入了前列。这显示出在开源项目中，并非只有传统的优势高校学生能够取得高贡献度，一些相对不那么知名的高校学生如果有足够的能力和投入，也能在排行榜上崭露头角。在参与社区方面，今年 OSPP 的情况与 2023 年类似，学生参与的社区依旧多样。不过，在一些特定社区中，如 Spring Cloud Alibaba、MindSpore 等，学生的贡献度有显著提升，这可能与这些社区在 2024 年的项目需求、发展方向以及学生对相关技术的兴趣增长有关。另一方面，今年 OSPP 的贡献度集中程度有所变化，虽然仍有部分学生的 OpenRank 值远高于平均线，但整体的差距相较于 2023 年有缩小的趋势。这可能是由于随着 OSPP 项目的推广和发展，更多学生掌握了有效的开源项目参与方法，提高了自身的贡献度，使得高贡献度学生之间的竞争更加激烈。
 
