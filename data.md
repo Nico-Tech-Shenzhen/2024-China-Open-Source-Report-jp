@@ -431,7 +431,7 @@ Giteeの**OpenRank値**は、2018年から2024年にかけて、特に2019年か
 --- 
 
 ### 2.5 オープンソースFoundationランキング
-![开源基金会排行榜](./public/image/data/chapter_2/2_6.png)  
+![开源Foundation会排行榜](./public/image/data/chapter_2/2_6.png)  
 <center>図 2.5 2024 年オープンソースFoundation OpenRank ランキング Top 20</center>  
 
 **OpenAtom Foundation**は、2024年のオープンソース財団のOpenRankランキング**で1位となり、大規模なオープンソース・プロジェクトの推進における中国の重要な成果を実証した。
@@ -721,9 +721,9 @@ DaoCloud プロジェクトのコミュニティは、中国の開発者と組�
 * 一方、Cilium/ciliumやEnvoyproxy/envoyのような成熟したプロジェクトは、2024年のOpenRankの変動が少なく、比較的安定したパフォーマンスを示している。 これは、これらのプロジェクトが安定した発展段階に入り、その影響力が一定の水準で維持されていることを示唆している。
 
 
-### 4.3 世界基金の中国プロジェクトの OpenRank のトレンド分析
+### 4.3 世界Foundationの中国プロジェクトの OpenRank のトレンド分析
 ![image](./public/image/data/chapter_4/4_3.png)
-<center>4.3 世界基金の中国プロジェクトの OpenRank のトレンド分析</center>
+<center>4.3 世界Foundationの中国プロジェクトの OpenRank のトレンド分析</center>
 <br>
 
 2024年、Foundationの中国プロジェクトのうち、主要なプロジェクトは急速に成長しており、その他のプロジェクトは着実に発展している。 中国のオープンソースプロジェクトは、さまざまな技術分野で強い影響力と発展の可能性を示しています。
