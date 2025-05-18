@@ -47,7 +47,8 @@ AI という重要な注目点に加え、**本報告書は複数の分野で革
 
 すでにPRがマージされた中国オープンソース年度報告(2024)日本語版の公開により、今後も良いプロジェクトを開発するオープンな試みが国境を超えて広がっていくことを望みます。
 
-中文
+**中文**
+
 自2020年起，我与我共同创办的「[ニコ技深圳](https://medium.com/ecosystembymakers/about-e306f96168b8)」社区一起，持续参与了[中国开源相关文档的日文翻译工作](https://github.com/kaiyuanshe/CNOSSTranslationJP)。今年已经是第五年了。从最新发布的《中国开源年度报告2024》中，我们可以清楚地看到，中国的开源生态已经从“追赶者”逐步转变为“引领者”。
 
 随着社会和产业的广泛支持，中国涌现出了如华为这样的全球开源代表企业，也诞生了像 TiDB 这样被全球广泛采用的国产开源项目。看到开源不仅丰富了软件生态，也在更广阔的技术领域中发挥了影响力，令人感到非常振奋。
@@ -58,7 +59,8 @@ AI という重要な注目点に加え、**本報告書は複数の分野で革
 
 随着中国开源年度报告2024日文版的 PR 已正式合并并公开发布，我真心期待，更多优秀的开源项目能跨越国界，自由流动与发展。开放的尝试，会继续在全球扩展。
 
-English
+**English**
+
 Since 2020, together with the [Nico-Tech Shenzhen community](https://medium.com/ecosystembymakers/about-e306f96168b8)—which I co-founded—I've been working on [Japanese translations](https://github.com/kaiyuanshe/CNOSSTranslationJP) and commentary related to China’s open source scene. This marks our fifth year, and looking at the newly released China Open Source Annual Report 2024, it's clear how much has changed. Over these five years, China has shifted from merely catching up to actively driving global open source development.
 
 With growing support from society and industry, we've seen the rise of major open source players like Huawei, and projects like TiDB that originated in China are now widely adopted around the world. It’s exciting to see how open source has enriched not only the software ecosystem but the broader tech landscape as well.
