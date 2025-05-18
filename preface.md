@@ -39,6 +39,34 @@ AI という重要な注目点に加え、**本報告書は複数の分野で革
 
 # 日本語訳　序文
 
-（作業中）
+2020年度から、自分がCo-founderである[ニコ技深圳コミュニティ](https://medium.com/ecosystembymakers/about-e306f96168b8)と共に[中国オープンソース関連文書の日本語訳](https://github.com/kaiyuanshe/CNOSSTranslationJP)をはじめ、今年で5年目になります。この5年で中国のオープンソース界はキャッチアップする側からドライブする側に移行したことが、今回の中国オープンソース年度報告2024からも伺えます。中国社会がオープンソースを広く受け入れ、後押ししたところで、Huaweiほか世界のオープンソース界を代表する企業がいくつも生まれ、TiDBほか中国から生まれたOSSソフトウェアが広く使われ、オープンソースの世界がより豊かになったのは素晴らしいことです。
 
-—— 高須正和(TAKASU Masakazu)、开源社 正式成员
+世界中でソフトウェアを開発する人、エンジニアは増え続け、彼らは自由にアクセスでき、開発に関与でき、結果をシェアできるソフトウェアを求めています。世界のどこでもこの流れは止まったことがありません。一方で開発にもシェアにも様々な形があり、世界には様々なオープンソースソフトウェアやプラットフォームがあります。こうした多様化・複雑化の流れも止まらないでしょう。AIの進化により、やることが複雑になっても、エンジニアは対応できるようになりつつあります。
+
+そしてそうした自由なソフトウェアは、情報社会を飛び出して、IoTやロボットといった形で物理的な社会にも影響を及ぼしつつあります。自分がプライベートでも業務でも関わっているEspressif Technologyが「中国発で世界のオープンソースに広く影響を与えているランキング」に入ってきたのはとても嬉しい驚きです。僕や日本のエンジニアたちはEspressifグループであるM5Stack社の技術開発やコミュニティ構築に大きく関わっています。
+
+すでにPRがマージされた中国オープンソース年度報告(2024)日本語版の公開により、今後も良いプロジェクトを開発するオープンな試みが国境を超えて広がっていくことを望みます。
+
+中文
+自2020年起，我与我共同创办的「[ニコ技深圳](https://medium.com/ecosystembymakers/about-e306f96168b8)」社区一起，持续参与了[中国开源相关文档的日文翻译工作](https://github.com/kaiyuanshe/CNOSSTranslationJP)。今年已经是第五年了。从最新发布的《中国开源年度报告2024》中，我们可以清楚地看到，中国的开源生态已经从“追赶者”逐步转变为“引领者”。
+
+随着社会和产业的广泛支持，中国涌现出了如华为这样的全球开源代表企业，也诞生了像 TiDB 这样被全球广泛采用的国产开源项目。看到开源不仅丰富了软件生态，也在更广阔的技术领域中发挥了影响力，令人感到非常振奋。
+
+全球的软件开发者数量不断增长。无论身处何地，开发者们都在寻找可以自由获取、参与开发并共享成果的软件。开源的潮流从未停歇。同时，“开放”本身的形式也变得更加多样化与复杂化，世界上存在着各式各样的开源项目和平台。而这一趋势不会停止。随着 AI 技术的发展，即使开发变得更复杂，工程师们也在逐渐具备应对的能力。
+
+如今，开源软件不仅局限于信息社会，还正在通过 IoT 和机器人等形式，影响到现实世界。让我个人惊喜的是，我在工作和业余时间均有参与的 Espressif Technology（乐鑫科技），今年首次进入了“对全球开源产生广泛影响的中国公司”榜单。包括我在内的许多日本工程师也积极参与了其子公司 M5Stack 的技术开发与社区建设。
+
+随着中国开源年度报告2024日文版的 PR 已正式合并并公开发布，我真心期待，更多优秀的开源项目能跨越国界，自由流动与发展。开放的尝试，会继续在全球扩展。
+
+English
+Since 2020, together with the [Nico-Tech Shenzhen community](https://medium.com/ecosystembymakers/about-e306f96168b8)—which I co-founded—I've been working on [Japanese translations](https://github.com/kaiyuanshe/CNOSSTranslationJP) and commentary related to China’s open source scene. This marks our fifth year, and looking at the newly released China Open Source Annual Report 2024, it's clear how much has changed. Over these five years, China has shifted from merely catching up to actively driving global open source development.
+
+With growing support from society and industry, we've seen the rise of major open source players like Huawei, and projects like TiDB that originated in China are now widely adopted around the world. It’s exciting to see how open source has enriched not only the software ecosystem but the broader tech landscape as well.
+
+Globally, the number of software developers continues to grow. Developers everywhere are seeking software that they can freely access, contribute to, and share. This open model hasn't lost momentum anywhere in the world. At the same time, the definition of “open” is diversifying—open source now comes in many forms, across many platforms. And this complexity will only continue to grow. Thanks to advances in AI, engineers are increasingly equipped to handle that complexity.
+
+Today, open software is no longer just part of the information sphere—it’s reaching into the physical world through IoT and robotics. On a personal note, I was pleasantly surprised to see Espressif Technology—whom I work with both professionally and privately—ranked as one of the most globally influential open source contributors from China. Many Japanese engineers, including myself, are deeply involved in technical development and community-building efforts around Espressif’s M5Stack.
+
+Now that the Japanese translation of the 2024 China Open Source Annual Report has been merged and published, I hope to see even more cross-border collaboration and open innovation. Good projects deserve to travel.
+
+—— 高須正和(TAKASU Masakazu)、开源社 正式成员 Kaiyuanshe Official Member, 开源硬件(Open Hardware Team)
